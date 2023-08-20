@@ -31,3 +31,9 @@ following is to react navigation stack
 ```
 npm i react-navigation-stack
 ```
+
+3. To playing with position we must use a react navigation draw : 
+
+```
+npm install react-navigation-drawer
+```

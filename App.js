@@ -1,7 +1,6 @@
-import Navigator from './routes/HomeStack'
-
+import Navigators  from "./routes/HomeStack"
 export default function App() {
   return (
-    <Navigator />
+    <Navigators/>
   );
 }
