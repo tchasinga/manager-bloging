@@ -1,0 +1,39 @@
+For making page navigation in react-native you need to install those following command : 
+```
+npm install react-navigation
+```
+For more details you can check this link : https://reactnavigation.org/docs/en/getting-started.html
+#installation
+```
+npm install react-navigation
+```
+Including this additional task to play with react user History : 
+
+```
+1 .  Run PowerShell as an Admin :
+
+```
+Set-ExecutionPolicy RemoteSigned
+```
+
+@tchasinga
+
+2 . Execute this the following command
+
+```
+expo install react-native-gesture-handler react-native-reanimated
+```
+
+After that all gonna work as well...
+
+following is to react navigation stack
+
+```
+npm i react-navigation-stack
+```
+
+3. To playing with position we must use a react navigation draw : 
+
+```
+npm install react-navigation-drawer
+```
