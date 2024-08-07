@@ -26,10 +26,16 @@
         "INTERNET",
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE"
-      ]
+      ],
+      "package": "com.tchasinga.managerbloging"
     },
     "web": {
       "favicon": "./assets/ic_launcher.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e265dcec-f8a9-4bd8-aa20-e9cc18869cdd"
+      }
     }
   }
 }
