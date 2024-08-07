@@ -43,3 +43,5 @@ npm install react-navigation-drawer
 To create a new Expo app using JavaScript, you can specify the template with the --template flag:
 
 npx create-expo-app my-app --template blank
+eas build --platform android --profile development
+eas build --platform ios --profile ios-simulator
